@@ -1,0 +1,9 @@
+{
+	"name": "test-adf-090909",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3277a573-348b-4dbf-ad19-ab394cb23b7f",
+		"tenantId": "c90bc39a-6a5a-4c5a-a1d8-3cb4b2bbbfe7"
+	}
+}
